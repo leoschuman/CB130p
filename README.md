@@ -3,6 +3,7 @@
 Customer360 Lab Application.
 
 CB130p - Introduction to NoSQL Application Development (PHP)
+
 Free online course teaching learners how to expose CRUD and N1QL Query operations via REST API.
 https://training.couchbase.com/online
 
